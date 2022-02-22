@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation commanding all mariners and others to His Maiesties ships, for which they are prest.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22603</idno>
+            <idno type="STC">STC 9058</idno>
+            <idno type="STC">ESTC S123791</idno>
+            <idno type="EEBO-CITATION">33150547</idno>
+            <idno type="OCLC">ocm 33150547</idno>
+            <idno type="VID">28654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1877:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation commanding all mariners and others to His Maiesties ships, for which they are prest.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at Our Palace of Westminster the fifth day of April, in the twelfth yeere of Our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Naval deserters --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28654:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation touching the Corporation of Bever-makers of London, and to reſtrain the Import<g ref="char:EOLhyphen"/>ing of forrain Hats, and the wearing of Demy-caſters within his Majeſties Dominions.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas, notwithſtanding the Princely care of Our late dear and</hi> Royall Father King <hi>JAMES</hi> of bleſſed memory, for the neceſſary maintenance and preſervation of the Manufacture of Hats and Caps within this Kingdome, in prohibiting by ſeverall Procla<g ref="char:EOLhyphen"/>mations the Importation into the ſame from forrain parts, of any Hats or Caps whatſoever, either wrought or half wrought, upon pain of the forfeiture of the ſame; We now finde that abundance of Hats and Caps, aſwell of Bever-ſtuffe, or Bever-wooll, as of other Wooll and materialls made &amp; wrought in forrain parts, are frequently imported into this our Kingdome, to the great impoveriſhment and depriving of multitudes of Our poor ſubjects of their livelihood and imployment.</p>
+            <p>Wee tendring the common good of our ſaid ſubjects, and that for the time to come they may be enabled to live, and maintain themſelves and families, by their honeſt labours in their ſaid trades; And that the Art and Myſterie of making or working of Hats and Caps of Bever-ſtuffe or Bever-wooll within Our ſaid Kingdome, may be regulated in a juſt and orderly way, without the deceits and abuſes now practiſed in the ſame, (the wearing of Bever-Hats being of late times become much in uſe, eſpecially by thoſe of ſort and qua<g ref="char:EOLhyphen"/>lity) Have thought fit to incorporate ſundry perſons Free-men of London, expert in the art of making or working Hats and Caps of Bever-ſtuffe or Bever-wooll, who accord<g ref="char:EOLhyphen"/>ingly are to govern the ſaid trade, and may be anſwerable to Vs for the ſame.</p>
+            <p>And therefore Wee do ſtraightly charge and command all perſon and perſons whatſoever, aſwell Our naturall born ſubjects, as denizens or ſtrangers, That they or any of them directly or indirectly, do not from henceforth at any time or times hereafter, import, convey, or bring, or cauſe to be imported, conveyed, or brought into Our Realm of England or Domi<g ref="char:EOLhyphen"/>nion
+<pb n="2" facs="tcp:28654:2"/>of Wales, any Hats or Caps of Bever, or other Hats or Caps, of what condition or ſort ſoever, made, wrought or half wrought, or hereafter to be made, wrought or half wrought, in any parts beyond the Seas, to be ſold or put to ſale here. And that no perſon or perſons whatſoever, after the twelfth day of <hi>Auguſt</hi> next coming, ſhall ſell or put to ſale, or ſhall have in their houſes or ſhops, to ſell or put to ſale, any of the ſaid forrain Hats, or Caps, already imported into this Our Realm of England, and Dominion of Wales, upon pain of the loſſe and forfeiture of the ſame, and ſuch further puniſhment as ſhall be meet for ſuch their contempt, the one half of which forfeitures to be to the uſe of Vs, Our Heirs, and ſucceſſours, and the other half of the ſaid Bever-hats or Hats mixt with Bever ſo to be imported, to be to the uſe of the ſaid Bever-makers and their ſucceſſors; and the moity of all other Felts ſo to be imported, to be to the uſe of the Company of Felt-makers of <hi>London,</hi> and their ſucceſſors.</p>
+            <p>And to the end that the ſaid Corporation of Bever-makers, Our naturall born Subjects, may be conſtantly imployed in their ſaid Trade, We do hereby ſtraightly charge and command, that no perſon or perſons whatſoever within Our ſaid Realme of <hi>England,</hi> or Dominion of <hi>Wales,</hi> at any time or times hereafter, do preſume to uſe or execiſe the Trade or Myſtery of making or working of Hats or Caps of Bever-ſtuffe or Bever-wooll, to be ſold or put to ſale, unleſſe ſuch perſons have commonly uſed the ſaid Trade by the ſpace of two yeers laſt paſt, or have ſerved an Apprentiſhip to the ſame by the ſpace of ſeven yeers: And that no perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, for the time to come, ſhall uſe or practiſe the ſaid Trade, unleſſe he or they have been or ſhall be firſt bound and brought up as Apprentice or Apprentices in the ſame Trade by the ſpace of ſeven yeers at the leaſt, and are or ſhall be members of the ſaid Corpora<g ref="char:EOLhyphen"/>tion, upon pain of Our high diſpleaſure, and ſuch puniſhments as ſhall be meet for the of<g ref="char:EOLhyphen"/>fenders herein, for ſuch their contempts of Our Royall commands, and the loſſe and for<g ref="char:EOLhyphen"/>feiture of all ſuch Bever-hats and Caps as ſhall be ſo made, to be ſeized to Our uſe, the one moitie to be to Vs, Our Heirs and Succeſſours; and the other moitie to be to the Company of Bever-makers and their ſucceſſours. And we do hereby declare, that there is no Intention by the ſaid Charter made to the ſaid Bever-makers, or any Grant therein concerning ſearch to be made by them, that the power of ſearch formerly granted to the Company of Haverdaſhers of <hi>London,</hi> or to the Company of Felt-makers of <hi>London,</hi> ſhould in any ſort be impeached.</p>
+            <p>And for that divers of Our Subjects have heretofore found inconvenience in the uſe of Bever-Hats intermixt with other hair or ſtuffe then Bever, Wee do therefore ſtraight<g ref="char:EOLhyphen"/>ly charge and command, that no Bever-makers whatſoever from henceforth ſhall make any Hats or Caps but of pure Bever, and that in the making or working thereof, they or any of them ſhall not intermix, uſe, or work, or cauſe to be intermixed, uſed, or wrought, any hair, wooll, or ſtuffe whatſoever, other then good and perfect Bever, upon pain of the loſſe and forfeiture of the ſame, the one moitie to Vs, Our Heirs, and Succeſſors; and the other to ſuch as ſhall ſeize the ſame. And Our Will and pleaſure is, that if upon any ſearch to be made by the ſaid Company of Haberdaſhers of <hi>London,</hi> or by the ſaid Company of Bever-makers, there ſhall be found in any of the houſes, ſhops, Ware-houſes or Work-houſes, of any of the ſaid Bever-makers, or in any other place for their or any of their uſes, any hair, wooll, or ſtuffe whatſoever uſed in making of Hats or Caps other then Bever-ſtuffe onely,
+<pb n="3" facs="tcp:28654:3"/>That then the ſame ſhall be ſeized by ſuch of the ſaid Companies of Haberdaſhers and Bever-makers as ſhall ſo finde the ſame as forfeited, the one half thereof to be to Vs, Our Heirs, or Succeſſours, and the other half thereof to ſuch of the ſaid Companies as ſhall ſo finde and ſeize the ſame. And Our further Will and pleaſure is, That if the ſaid Company of Haberdaſhers, or the ſaid Company of Bever-makers, upon any ſearch by them, or either of them to be made, ſhall finde any deceitfull Bever-Hats, or Caps, that then the ſame ſhall by them that ſhall ſo finde the ſame, be ſeized and carried to the <hi>Guild-Hall</hi> of Our Citie of <hi>London,</hi> there to be tried by Iury, and in caſe they ſhall be there condemned for ſuch, then the ſame to be conſumed by fire; The ſaid Charter of Incorporation made to the ſaid Company of Bever-makers, or any Grant, power or thing therein contained to the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>And foraſmuch as a ſort of Hatts called Demycaſters, wherein ſome Bever is intermixed, are now found not to be uſefull in Our Dominions, Our Will and pleaſure therefore is, and We do ſtraightly charge and command, That from henceforth no Haberdaſhers, nor makers of De<g ref="char:EOLhyphen"/>mycaſters, nor other Hat-makers or perſons whatſoever, after Midſomer day next, ſhall ut<g ref="char:EOLhyphen"/>ter, or ſell any Hat or Hats called Demycaſters, or other Hats wherein Bever ſhall be mixed or wrought, with other materials by retayl, or have any ſuch Hats in their houſes or Shops to utter or ſell by retayl to any of Our Subjects, or others, to be worne within any Our Do<g ref="char:EOLhyphen"/>minions: And that none of Our Subjects after one yeer next enſuing, ſhall wear any Demy<g ref="char:EOLhyphen"/>caſters, or other Hat wherein any Bever wooll, or Bever ſtuffe is mixt, or wrought with other materials within Our ſaid Dominions, upon pain of the loſſe and forfeiture of the ſame to be ſeized and taken to Our uſe, the one half thereof to be to Vs, Our Heirs and Succeſſours, and the other half to ſuch as ſhall ſeize the ſame, and upon ſuch further penalties as ſhall be meet for ſuch their contempts.</p>
+            <p>Nevertheleſſe, being informed that the ſaid Demycaſters, wherein Bever is mixt with other materials, are uſefull and deſired in forrain parts: We are pleaſed that the ſaid Makers thereof, and other Hat-makers (other then the ſaid Bever-makers) may ſtill make the ſaid Demycaſters; And that they, or any Haberdaſhers may ſell the ſame to Merchants in groſſe, and not otherwiſe, to be by them tranſported from the Port of <hi>London</hi> onely, into parts beyond the ſeas, &amp; to be there vented. And that Our Royall intention herein may be duely obſerved, We do hereby ſtraightly charge &amp; command, That no Demycaſter-makers, or other Hat-makers, that ſhall hereafter make any Demycaſters or Hats wherin any Bever-wooll or Bever-ſtuffe is intermixed with other materials, ſhall directly or indirectly ſell, or put to ſale any Demycaſters or Hats wherein Bever-wooll is mixt with other materials to any perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever, before he or they firſt bring the ſame to the common Hall or meeting place of the ſaid Be<g ref="char:EOLhyphen"/>ver-makers in Our ſaid Citie of <hi>London,</hi> there from time to time (as they ſhall be ſo brought) to be immediately marked (without fee or dutie) upon the banding place of the ſame Hats with the letter <hi>D,</hi> that ſo they may thereby be known to be Demycaſters, or Hats wherein Bever is mixt with other materials; And that no perſon or perſons whatſoever, do hereafter buy, or cauſe to be bought any ſuch Demycaſters or mixt Hats before they have been ſo marked with the ſaid letter <hi>D,</hi> upon pain of the loſſe and forfeiture of the ſame Hats, and ſuch further penal<g ref="char:EOLhyphen"/>ties and puniſhments as ſhall be meet for contempt of Our Royall commands herein. And We do hereby further charge and command, that from henceforth no Merchants or others ſhall import or bring into this Our Realme any Bever-wooll, or Bever-ſtuffe mixted with ſand,
+<pb facs="tcp:28654:4"/>or any other ſtuffe whatſoever, to make it weigh heavy, or whereby the ſaid Bever-wooll or Bever-ſtuffe ſhall be corrupted or impaired, under the penaltie of the loſſe and forfeiture there<g ref="char:EOLhyphen"/>of, to be ſeized to Our uſe, by ſuch perſon or perſons as ſhall diſcover the ſame, and to be further puniſhed as ſhall be thought meet, the one moitie whereof to be to Vs, Our Heirs, and Suc<g ref="char:EOLhyphen"/>ceſſours, and the other moitie to be to the ſaid Corporation of Bever-makers, and their ſuc<g ref="char:EOLhyphen"/>ceſſours, and alſo upon pain of Our high diſpleaſure, and ſuch penalties and puniſhments, as by the Laws and Statutes of this Realme, or otherwiſe may be inflicted on the offenders in the premiſſes for their contempt and neglect of Our Royall Will and Commandment here<g ref="char:EOLhyphen"/>in. And for the accompliſhment of this Our pleaſure, We do hereby ſtraightly charge and command all Cuſtomers, Comptrollers, and other Officers of Our Ports to whom it ſhall ap<g ref="char:EOLhyphen"/>pertain, and all Farmours of Our Cuſtomes now, and for the time being, their Clarks and ſub<g ref="char:EOLhyphen"/>ſtitutes, that they, and everie of them do forbear to take any Entries of any Bever-Hats, Felt-Hats or Caps, or any other Hats or Caps of what nature, qualitie, or condition ſoever made, wrought, or half wrought beyond the Seas, that ſhall be brought into this Realme, or Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> by any perſon or perſons whatſoever. And likewiſe all Iuſtices of Peace, Mai<g ref="char:EOLhyphen"/>ors, Sheriffes, Cuſtomers, Comptrollers, Searchers, and other Officers and Miniſters whatſoever, to whom it ſhall appertain, that they and everie of them, in their ſeverall Offices and places reſpectively, be carefull to their and everie of their powers, that Our Intention herein before mentioned be fully executed by all lawfull means whatſoever; And that they, and every of them be aiding, favouring, and aſſiſting to the Maſter, Wardens, Aſſiſtants and Comminalty of Bever-makers of <hi>London,</hi> or their Deputies, Agents, or Officers for the time being in the premiſſes according to Our pleaſure herein declared, as they will anſwer for the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at Our Court at VVhitehall, <date>this ſix and twentieth day of May, in the four<g ref="char:EOLhyphen"/>teenth yeer of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Majeſtie: And by the Aſsignes of John Bill. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
